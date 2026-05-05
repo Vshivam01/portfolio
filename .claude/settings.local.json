@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \"const l = require\\('lucide-react'\\); console.log\\(Object.keys\\(l\\).filter\\(k => /git|linke/i.test\\(k\\)\\)\\)\")",
+      "Bash(npm run *)"
+    ]
+  }
+}
