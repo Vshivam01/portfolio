@@ -21,7 +21,6 @@ const PHRASES = [
   "Full-stack developer.",
   "Tools shipper.",
   "Manitoba-based.",
-  "Currently hiring me.",
 ];
 
 function Letters({ line, delay = 0 }: { line: string; delay?: number }) {
